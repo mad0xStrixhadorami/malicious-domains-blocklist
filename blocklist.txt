@@ -1,11 +1,12 @@
 # Malicious domains blocklist
-# Entries: 287
+# Entries: 292
 0.0.0.0 0yrlm-px5-b12s-tpgya-20-10-2026-aa.pages.dev
 0.0.0.0 1141y-maq-4a7n-th3jc-01-10-2026-aa.pages.dev
 0.0.0.0 1eq37-bsq-fpw7-6pici-29-09-2026-aa.pages.dev
 0.0.0.0 234.158.66.148.host.secureserver.net
 0.0.0.0 294ma-vn4-8z5u-lod5c-16-10-2026-aa.pages.dev
 0.0.0.0 2u19d-hhl-bmem-2gl0a-30-09-2026-aa.pages.dev
+0.0.0.0 2w18jl4.shop
 0.0.0.0 3hhkn-j2p-eo14-6dyko-18-10-2026-aa.pages.dev
 0.0.0.0 3oykj-fot-q0e8-c6wd8-28-09-2026-aa.pages.dev
 0.0.0.0 3q5r8-nqn-a97p-zmylm-28-09-2026-aa.pages.dev
@@ -82,6 +83,7 @@
 0.0.0.0 g5.lu
 0.0.0.0 gla0o-6ct-s8cc-dsd6h-25-10-2026-aa.pages.dev
 0.0.0.0 gleaming-play-986869.framer.app
+0.0.0.0 govesv.icu
 0.0.0.0 grh99-1aw-e90t-2qgko-16-10-2026-aa.pages.dev
 0.0.0.0 h0709-87q-g5zf-5xr8n-18-10-2026-aa.pages.dev
 0.0.0.0 h0itk-nk3-xam7-i1xuh-01-10-2026-aa.pages.dev
@@ -111,6 +113,7 @@
 0.0.0.0 kukkinlognn.webflow.io
 0.0.0.0 l6iu5-ogv-fkwk-z9qp9-16-10-2026-aa.pages.dev
 0.0.0.0 l7f0p-yvw-vglb-uld2k-30-09-2026-aa.pages.dev
+0.0.0.0 lemchai.site
 0.0.0.0 lemfaro-mpt-zurqeni-r9d4me56.pages.dev
 0.0.0.0 lemqeni-mpt-vurqalo-h4d8ka61.pages.dev
 0.0.0.0 lemzuni-mpt-vafqaro-h9d6me41.pages.dev
@@ -133,6 +136,7 @@
 0.0.0.0 mt5fh-4qc-zo6m-syfg6-17-10-2026-aa.pages.dev
 0.0.0.0 my-business-105356-106518.square.site
 0.0.0.0 mybtmailweb.weeblysite.com
+0.0.0.0 mygovli.dev
 0.0.0.0 mylogenkucon.webflow.io
 0.0.0.0 mylogonkucon.webflow.io
 0.0.0.0 netflix-clone-react-1.vercel.app
@@ -153,6 +157,7 @@
 0.0.0.0 raeward-mymidasbuy.de5.net
 0.0.0.0 raqfelo-mpt-zumqani-k7x5pe92.pages.dev
 0.0.0.0 raqvuri-mpt-felqeni-r6d5me84.pages.dev
+0.0.0.0 rashut-rakns.com
 0.0.0.0 rc7b3-5ng-mxjp-ow084-18-09-2026-hh.pages.dev
 0.0.0.0 rm36q-sbx-b68r-8dmvb-18-10-2026-aa.pages.dev
 0.0.0.0 roblox.com.kz
